@@ -21,6 +21,14 @@ Don't worry, the script is optimized.
 [^1]: This is a framework.
 [^2]: lj-inventory works as well. Similar inventories might apply, but cannot be guaranteed.
 
+## Config
+<details>
+  <summary>Click to display</summary>
+  ```lua
+  
+  ```
+</details>
+
 ## Installation
 1. Drag the folder that you downloded from keymaster to your folder of choice within your resources.  
 ---
