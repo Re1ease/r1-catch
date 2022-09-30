@@ -12,6 +12,8 @@ Whoever that manages to deliver the case to the correct destination is rewarded.
   
 Don't worry, the script is optimized as shown in the showcase video.
 
+Need help? Hop into the [Discord](https://discord.gg/GB9YEXeP5k).
+
 ## Showcase
 add video here bruv.
 
