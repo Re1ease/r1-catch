@@ -12,6 +12,9 @@ Whoever that manages to deliver the case to the correct destination is rewarded.
   
 Don't worry, the script is optimized as shown in the showcase video.
 
+## Showcase
+add video here bruv.
+
 ## Dependencies
 | Script                                                                | Required |
 |:----------------------------------------------------------------------|:---------|
