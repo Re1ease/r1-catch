@@ -23,6 +23,7 @@ add video here bruv.
 | [QBCore](https://github.com/qbcore-framework)[^1]                     | Yes      |
 | [qb-target](https://github.com/qbcore-framework/qb-target)            | Yes      |
 | [qb-inventory](https://github.com/qbcore-framework/qb-inventory)[^2]  | Yes      |
+| [PolyZone](https://github.com/mkafrin/PolyZone)  			| Yes      | 
 
 [^1]: This is a framework.
 [^2]: lj-inventory works as well. Similar inventories might apply, but cannot be guaranteed.
