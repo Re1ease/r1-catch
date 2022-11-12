@@ -15,7 +15,7 @@ Don't worry, the script is optimized as shown in the showcase video.
 Need help? Hop into the [Discord](https://discord.gg/GB9YEXeP5k).
 
 ## Showcase
-add video here bruv.
+[Video Showcase](https://www.youtube.com/watch?v=_Ivuig2SzrY)
 
 ## Dependencies
 | Script                                                                | Required |
