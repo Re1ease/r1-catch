@@ -9,8 +9,6 @@ Locate the hidden case, grab it and deliver it to said destination.
 The script is synchronized between all players which allows everyone to participate and to intercept the case delivery.  
 Not only are the events synced, but so are the props.  
 Whoever that manages to deliver the case to the correct destination is rewarded.  
-  
-Don't worry, the script is optimized as shown in the showcase video.
 
 Need help? Hop into the [Discord](https://discord.gg/GB9YEXeP5k).
 
